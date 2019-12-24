@@ -2,6 +2,8 @@
 
 UEFI → Open Core 0.5.2 → macOS 10.15.2
 
+> 同步更新地址：https://shiyangyu.com/b450m-mortar-hackintosh/
+
 + 已知bug：
 
         3.5mm 麦克风🎤 没声音 （目前解决方案外置USB免驱声卡）
