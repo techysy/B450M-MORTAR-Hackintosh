@@ -1,6 +1,6 @@
 # MSI B450M MORTAR MAX (MS-7B89)
 
-使用 Open Core 0.5.2 → macOS 10.15.2
+UEFI → Open Core 0.5.2 → macOS 10.15.2
 
 + 已知bug：
 
