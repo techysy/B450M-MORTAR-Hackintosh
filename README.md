@@ -34,7 +34,7 @@ UEFI → Open Core 0.5.2 → macOS 10.15.2
 
 > macOS 10.15.2 AMD_Vanilla
     
-   #### 软件版本 :DaVinci Resolve 16
+   ##### 软件版本 :DaVinci Resolve 16
     
    ##### 原始素材 : mp4 h.264 01:40:39 1080p 50fps *50m* 
     
