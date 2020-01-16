@@ -10,7 +10,7 @@
  
       具体使用说明： https://github.com/techysy/rEFInd
         
-      当然你也可以使用Open Core的添加自定义引导
+      当然你也可以使用Open Core添加自定义引导
 
   ![EFI](/ScreenShot/EFI.jpg) 
 
