@@ -8,9 +8,9 @@
 
  + 2020.01.16 更新EFI 添加rEFInd多系统引导
  
-       具体使用说明： https://github.com/techysy/rEFInd
+      具体使用说明： https://github.com/techysy/rEFInd
         
-       当然你也可以使用Open Core的添加自定义引导
+      当然你也可以使用Open Core的添加自定义引导
  
  + 2019.12.23 首次提交
         
