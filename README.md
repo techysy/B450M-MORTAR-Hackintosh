@@ -12,7 +12,7 @@
         
       当然你也可以使用Open Core的添加自定义引导
 
-  ![EFI](/Screenshot/EFI.jpg) 
+  ![EFI](/ScreenShot/EFI.jpg) 
 
  + 2019.12.23 首次提交
         
@@ -58,7 +58,7 @@
 
         编码 : h.264 开启硬件加速 完成时间 : 01:20
         
-![md](/Screenshot/macOS 达芬奇导出页面jpg)
+![md](/ScreenShot/macOS 达芬奇导出页面.jpg)
     
 > Windows 10 1909 + DaVinci Resolve 16
       
