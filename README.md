@@ -12,7 +12,7 @@
         
       当然你也可以使用Open Core的添加自定义引导
 
-  ![EFI](/Screenshot/EFI.jpg) 
+  ![EFI](/ScreenShot/EFI.jpg) 
 
  + 2019.12.23 首次提交
         
@@ -58,7 +58,7 @@
 
         编码 : h.264 开启硬件加速 完成时间 : 01:20
         
-![md](/Screenshot/macOS 达芬奇导出页面jpg)
+![md](/Screenshot/macOS_达芬奇导出页面.jpg)
     
 > Windows 10 1909 + DaVinci Resolve 16
       
@@ -67,6 +67,8 @@
         编码 : h.265 AMD 完成时间 : 00:28
 
         编码 : h.264 AMD 完成时间 : 00:48
+
+![md](/Screenshot/Windows_达芬奇导出页面.png)
 
 ## Geekbench 跑分
 
@@ -113,3 +115,18 @@
         GPU 48759 
             
         https://browser.geekbench.com/v5/compute/363947
+
+## Cinebench R20  
+
+> macOS 10.15.2 AMD_Vanilla
+
+![mr](/screenshot/macOS_Cinebench_R20_跑分结果.jpg)
+
+
+> Windowns 10 1909
+
+![wr](/screenshot/Windows_Cinebench_R20_跑分结果.png)
+
+## VideoProc 硬件加速检测
+
+![hevc](/screenshot/videoproc_硬解.jpg)
