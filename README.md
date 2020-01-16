@@ -3,6 +3,16 @@
 ## UEFI → Open Core 0.5.2 → macOS 10.15.2
 
 > 同步更新地址：https://shiyangyu.com/b450m-mortar-hackintosh/
+
+## 更新日志
+
+ + 2020.01.16 更新EFI 添加rEFInd多系统引导
+ 
+       具体使用说明： https://github.com/techysy/rEFInd
+        
+       当然你也可以使用Open Core的添加自定义引导
+ 
+ + 2019.12.23 首次提交
         
 ## 具体配置：
 
