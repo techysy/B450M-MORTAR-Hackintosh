@@ -11,7 +11,9 @@
       具体使用说明： https://github.com/techysy/rEFInd
         
       当然你也可以使用Open Core的添加自定义引导
- 
+
+  ![EFI](/Screenshot/EFI.jpg) 
+
  + 2019.12.23 首次提交
         
 ## 具体配置：
@@ -55,7 +57,8 @@
         编码 : h.265 完成时间 : 00:43
 
         编码 : h.264 开启硬件加速 完成时间 : 01:20
-
+        
+![md](/Screenshot/macOS 达芬奇导出页面jpg)
     
 > Windows 10 1909 + DaVinci Resolve 16
       
