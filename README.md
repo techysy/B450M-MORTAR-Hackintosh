@@ -1,6 +1,6 @@
 # MSI B450M MORTAR MAX (MS-7B89)
 
-## UEFI → Open Core 0.5.2 → macOS 10.15.2
+## rEFInd → Open Core 0.5.2 → macOS 10.15.2
 
 > 同步更新地址：https://shiyangyu.com/b450m-mortar-hackintosh/
 
