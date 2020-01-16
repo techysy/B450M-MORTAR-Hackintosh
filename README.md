@@ -58,7 +58,7 @@
 
         编码 : h.264 开启硬件加速 完成时间 : 01:20
         
-![md](/Screenshot/macOS_达芬奇导出页面.jpg)
+![md](/ScreenShot/macOS_达芬奇导出页面.jpg)
     
 > Windows 10 1909 + DaVinci Resolve 16
       
@@ -68,7 +68,7 @@
 
         编码 : h.264 AMD 完成时间 : 00:48
 
-![md](/Screenshot/Windows_达芬奇导出页面.png)
+![md](/ScreenShot/Windows_达芬奇导出页面.png)
 
 ## Geekbench 跑分
 
@@ -120,13 +120,13 @@
 
 > macOS 10.15.2 AMD_Vanilla
 
-![mr](/screenshot/macOS_Cinebench_R20_跑分结果.jpg)
+![mr](/ScreenShot/macOS_Cinebench_R20_跑分结果.jpg)
 
 
 > Windowns 10 1909
 
-![wr](/screenshot/Windows_Cinebench_R20_跑分结果.png)
+![wr](/ScreenShot/Windows_Cinebench_R20_跑分结果.png)
 
 ## VideoProc 硬件加速检测
 
-![hevc](/screenshot/videoproc_硬解.jpg)
+![hevc](/ScreenShot/VideoProc_硬解.jpg)
